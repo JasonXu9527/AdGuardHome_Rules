@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 
-! 主页: https://gitee.com/jasonchen9527/Rules/
-! 最后编辑时间: 2020/9/14
-!Raw地址：https://gitee.com/jasonchen9527/Rules/raw/master/Domain_Rules.txt
+! 主页: https://github.com/JasonXu9527/AdGuardHome_Rules
+! 最后编辑时间: 2021/3/1
+!Raw地址：https://raw.githubusercontent.com/JasonXu9527/AdGuardHome_Rules/master/Domain_Rules.txt
 
 #部分规则来自https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 #此为域名规则，Adguard Home 适用，元素规则建议插件启用
