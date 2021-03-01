@@ -1,0 +1,139 @@
+[Adblock Plus 2.0]
+
+! 主页: https://gitee.com/jasonchen9527/Rules/
+! 最后编辑时间: 2020/4/29
+!Raw地址：https://gitee.com/jasonchen9527/Rules/raw/master/Element_Rules.txt
+
+#部分规则来自https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+
+@@*$domain=taobao.com|alipay.com|suning.com|vmall.com|etao.com|tmall.com|paipai.com|jd.com|jd.hk|i.qq.com|my.csdn.net
+
+###############################doc88
+doc88.com##DIV[class="dk-side-gif"] 
+doc88.com##DIV[class="dk-bg"] 
+doc88.com##DIV[class="bannerside"] 
+###############################百度文库
+wenku.baidu.com##DIV[id="banurl"] 
+wenku.baidu.com##DIV[id="container"] [class="container"]
+wenku.baidu.com##DIV[id="html-reader-AD-5"] 
+wenku.baidu.com##DIV[id="ggbtm"] 
+wenku.baidu.com##DIV[id="relative-videos-wrap"] 
+wenku.baidu.com##DIV[class="top-ads-banner-wrap super-vip"]
+wenku.baidu.com##DIV[class="ad-taishan-bar"]
+wenku.baidu.com##DIV[class="ad-taishan"]
+wenku.baidu.com##DIV[class="ad-vip-close-bottom"]
+wenku.baidu.com##DIV[class="union-ad-bottom"] 
+wenku.baidu.com##DIV[class="banner-ad banner-wrap ad-onff"]
+wenku.baidu.com##DIV[class="fc-container ad-onff"]
+wenku.baidu.com##DIV[class="wkfc-wrap ad-onff"]
+wenku.baidu.com##DIV[class="banner-ad banner-wrap hidden-doc-banner"]
+wenku.baidu.com##DIV[class="banner-ad ad-onff banner-wrap hidden-doc-banner"]
+wenku.baidu.com##DIV[class="item frist-item view-like-recom-fc ad-onff"]
+wenku.baidu.com##DIV[class="structure-info-block EC_result"]
+wenku.baidu.com##DIV[class="qua-box"]
+wenku.baidu.com##DIV[class="service-entry"]
+wenku.baidu.com##DIV[class="fufei-activity-bar"]
+wenku.baidu.com##DIV[class="lazy-load"]
+wenku.baidu.com##DIV[class="voucher-pop-tip"]
+wenku.baidu.com##DIV[class="mask"]
+wenku.baidu.com##DIV[id="side-fixed-box"]
+wenku.baidu.com##DIV[class="__wm1"]
+wenku.baidu.com##DIV[class="__wm2"]
+wenku.baidu.com##DIV[class="__wm3"]
+wenku.baidu.com##DIV[class="__wm4"]
+wenku.baidu.com##DIV[class="__wm5"]
+wenku.baidu.com##DIV[class="__wm6"]
+wenku.baidu.com##DIV[class="__wm7"]
+wenku.baidu.com##DIV[class="__wm8"]
+wenku.baidu.com##DIV[class="__wm9"]
+wenku.baidu.com##DIV[class="__wm10"]
+wenku.baidu.com##DIV[class="__wm11"]
+wenku.baidu.com##DIV[class="__wm12"]
+wenku.baidu.com##DIV[class="__wm13"]
+wenku.baidu.com##DIV[class="__wm14"]
+wenku.baidu.com##DIV[class="__wm15"]
+wenku.baidu.com##DIV[class="__wm16"]
+wenku.baidu.com##DIV[class="__wm17"]
+wenku.baidu.com##DIV[class="__wm18"]
+wenku.baidu.com##DIV[class="__wm19"]
+wenku.baidu.com##DIV[class="__wm20"]
+wenku.baidu.com##DIV[class="__wm21"]
+wenku.baidu.com##DIV[class="__wm22"]
+wenku.baidu.com##DIV[class="__wm23"]
+wenku.baidu.com##DIV[class="__wm24"]
+wenku.baidu.com##DIV[class="__wm25"]
+wenku.baidu.com##DIV[class="__wm26"]
+wenku.baidu.com##DIV[class="__wm27"]
+wenku.baidu.com##DIV[class="__wm28"]
+wenku.baidu.com##DIV[class="__wm29"]
+wenku.baidu.com##DIV[class="__wm30"]
+wenku.baidu.com##DIV[class="__wm31"]
+wenku.baidu.com##DIV[class="__wm32"]
+#wenku.baidu.com##DIV[class="inner"]
+wenku.baidu.com##.ad-vip-close-bottom
+wenku.baidu.com##.wangpan-tip
+wenku.baidu.com##.new-user-discount-tip
+###############################百度
+baidu.com##DIV[id="s_wrap"]
+baidu.com##DIV[id="s-hotsearch-wrapper"]
+baidu.com##DIV[class="tab_news"]
+baidu.com##DIV[id="content_right"][class="cr-offset"]
+###############################百度知道
+zhidao.baidu.com##DIV[class="wgt-ads qbleftdown"]
+zhidao.baidu.com##DIV[class="wgt-bottom-union mod-shadow last line wgt-union-bottom"]
+zhidao.baidu.com##DIV[class="task-list-button"]
+zhidao.baidu.com##DIV[class="ec-ad"]
+zhidao.baidu.com##DIV[class="cms-scroll"]
+zhidao.baidu.com##DIV[class="EC_ads_listborder EC_ads_listborder_2 EC_result"]
+###############################B站
+bilibili.com##DIV[id="reportFirst2"] [class="start-AD"]
+bilibili.com##DIV[id="bili_live"] [class="banner-card b-wrap"]
+bilibili.com##DIV[id="bili_anime"] [class="banner-card b-wrap"]
+bilibili.com##DIV[class="flip-view p-relative over-hidden w-100"]
+bilibili.com##DIV[class="vcd"]
+###############################斗鱼
+douyu.com##DIV[class="ZoomTip"]
+douyu.com##DIV[class="SysSign-Ad"]
+douyu.com##DIV[class="SignBaseComponent-sign-ad"]
+douyu.com##DIV[class="StaticAct ActBase is-show "]
+douyu.com##DIV[class=" PlayerToolbar-signCont"]
+douyu.com##DIV[class="ActivityBtn"]
+douyu.com##DIV[class="SuperFansGuideTips"]
+douyu.com##DIV[id="js-room-activity"]
+douyu.com##DIV[class="FudaiGiftToolBarTips"]
+douyu.com##DIV[class="BarrageBanner"]
+douyu.com##DIV[class="DanmuEffectDom"]
+douyu.com##DIV[class="PrivilegeGiftModalDialog"]
+douyu.com##DIV[class="PcDiversion"]
+douyu.com##DIV[class="LiveRoomDianzan"]
+douyu.com##div[style="display: inline-block;"]
+###############################虎牙
+huya.com##.ps_close.J_close
+huya.com##DIV[id="J_communityContainer"]
+###############################greasyfork
+greasyfork.org##DIV[id="codefund"]
+###############################新浪博客
+sina.com.cn##DIV[id="sinaadToolkitBox0"]
+###############################v2ex
+v2ex.com##DIV[class="monetization"]
+v2ex.com###aswift_0
+v2ex.com##.inner
+v2ex.com##.sidebar_compliance
+###############################中关村在线
+www.zol.com.cn##.side-news-nointel.side-news,#bgad
+www.zol.com.cn,www.91danji.com,92btbtt.com##body:style(background: center !important)
+zol.com.cn##.down-h4,span.down-alink,div[class^=ad_],div[class*=-ad],div[class|=ad],div[id^=AD_]
+
+###############################杂项
+blog.sina.com.cn##div[style="width: 120px; height: 18px; position: absolute; right: 0px; bottom: -18px; z-index: 9999; background: url(\"//d2.sina.com.cn/litong/zhitou/sinaads/60x18_1_close.gif\") left top no-repeat rgb(238, 238, 238); margin: 0px; padding: 0px; cursor: pointer;"]
+blog.sina.com.cn###sinaadtk_sandbox_id_2
+blog.sina.com.cn##iframe[src="javascript:'<html><body style=background:transparent;></body></html>'"]
+blog.sina.com.cn##div[style="background: url(\"http://d1.sina.com.cn/litong/zhitou/sinaads/60x18_2_close.gif\") left top no-repeat; cursor: pointer; z-index: 11010; position: absolute; width: 60px; height: 18px; right: 7px; top: 1px;"]
+
+||tianji520.cn^
+
+
+
+
+
+

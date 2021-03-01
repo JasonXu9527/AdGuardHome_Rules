@@ -1,0 +1,33 @@
+[Adblock Plus 2.0]
+
+! 主页: https://gitee.com/jasonchen9527/Rules/
+! 最后编辑时间: 2020/4/29
+!Raw地址：https://gitee.com/jasonchen9527/Rules/raw/master/Exception_Rules.txt
+
+#部分规则来自https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+@@*$domain=taobao.com|alipay.com|suning.com|vmall.com|etao.com|tmall.com|paipai.com|jd.com|jd.hk|i.qq.com|my.csdn.net
+
+###########################白名单###########################
+
+###############################误伤恢复
+@@read.xiaoshuo1-sm.com
+@@ele.me^
+@@cnki.net^
+###############################固件运行
+@@pv.sohu.com^
+@@mp4.ts^
+###############################阿里DNS
+@@alidns.com^
+###############################中国知网
+@@||cnki.net^
+###########################黑名单###########################
+
+
+
+
+
+
+
+
+
+
