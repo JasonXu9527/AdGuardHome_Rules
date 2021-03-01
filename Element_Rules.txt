@@ -107,6 +107,7 @@ douyu.com##DIV[class="PrivilegeGiftModalDialog"]
 douyu.com##DIV[class="PcDiversion"]
 douyu.com##DIV[class="LiveRoomDianzan"]
 douyu.com##div[style="display: inline-block;"]
+douyu.com##.index-widgetWrapper-3hCsB
 ###############################虎牙
 huya.com##.ps_close.J_close
 huya.com##DIV[id="J_communityContainer"]
