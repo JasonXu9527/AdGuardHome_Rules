@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-
+! Title: 域名规则
 ! 主页: https://github.com/JasonXu9527/AdGuardHome_Rules
 ! 最后编辑时间: 2021/3/1
 !Raw地址：https://raw.githubusercontent.com/JasonXu9527/AdGuardHome_Rules/master/Domain_Rules.txt
