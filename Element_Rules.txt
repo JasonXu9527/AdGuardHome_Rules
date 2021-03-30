@@ -74,6 +74,7 @@ wenku.baidu.com##.ad-vip-close-bottom
 wenku.baidu.com##.wangpan-tip
 wenku.baidu.com##.new-user-discount-tip
 ###############################百度
+baidu.com##DIV[id="s_popup_advert"]
 baidu.com##DIV[id="s_wrap"]
 baidu.com##DIV[id="s-hotsearch-wrapper"]
 baidu.com##DIV[class="tab_news"]
