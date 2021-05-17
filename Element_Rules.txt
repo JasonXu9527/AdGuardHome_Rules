@@ -131,7 +131,7 @@ blog.sina.com.cn##div[style="width: 120px; height: 18px; position: absolute; rig
 blog.sina.com.cn###sinaadtk_sandbox_id_2
 blog.sina.com.cn##iframe[src="javascript:'<html><body style=background:transparent;></body></html>'"]
 blog.sina.com.cn##div[style="background: url(\"http://d1.sina.com.cn/litong/zhitou/sinaads/60x18_2_close.gif\") left top no-repeat; cursor: pointer; z-index: 11010; position: absolute; width: 60px; height: 18px; right: 7px; top: 1px;"]
-
+btcfans.com##DIV[class="third-link"]
 ||tianji520.cn^
 
 
