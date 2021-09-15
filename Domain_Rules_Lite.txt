@@ -7,6 +7,7 @@
 #部分规则来自https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 #此为域名规则，Adguard Home 适用，元素规则建议插件启用
 ###############################杂项
+||googleads.g.doubleclick.net^
 ||jimg.jisuoping.com^
 ||tianji520.cn^
 ||rtb.voiceads.cn^
