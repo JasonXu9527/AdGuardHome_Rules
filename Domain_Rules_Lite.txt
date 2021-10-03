@@ -1,16 +1,23 @@
 [Adblock Plus 2.0]
 ! Title: 域名规则Lite
 ! 主页: https://github.com/JasonXu9527/AdGuardHome_Rules
-! 最后编辑时间: 2021/3/1
+! 最后编辑时间: 2021/10/3
 !Raw地址：https://raw.githubusercontent.com/JasonXu9527/AdGuardHome_Rules/master/Domain_Rules.txt
 
 #部分规则来自https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 #此为域名规则，Adguard Home 适用，元素规则建议插件启用
 ###############################杂项
-||googleads.g.doubleclick.net^
 ||jimg.jisuoping.com^
 ||tianji520.cn^
 ||rtb.voiceads.cn^
+###############################ByteDance
+/pangolin-sdk/
+||pglstatp-toutiao.com^
+###############################京东追踪
+||kepler.jd.com^
+###############################Google
+||googleads.g.doubleclick.net^
+||google-analytics.com^
 ###############################百度统计
 ||hm.baidu.com^
 ||tongji.baidu.com^
@@ -24,6 +31,7 @@
 ||beacon.qq.com^
 ||sdk.e.qq.com^
 ###############################友盟统计
+/umeng/
 ||umeng.com^
 ||umengcloud.com^
 ||umengjmacs.m.taobao.com.
