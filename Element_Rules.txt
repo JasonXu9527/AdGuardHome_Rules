@@ -92,6 +92,7 @@ bilibili.com##DIV[id="bili_live"] [class="banner-card b-wrap"]
 bilibili.com##DIV[id="bili_anime"] [class="banner-card b-wrap"]
 bilibili.com##DIV[class="flip-view p-relative over-hidden w-100"]
 bilibili.com##DIV[class="vcd"]
+bilibili.com##DIV[class="reply-notice"]
 ###############################斗鱼
 douyu.com##DIV[class="ZoomTip"]
 douyu.com##DIV[class="SysSign-Ad"]
