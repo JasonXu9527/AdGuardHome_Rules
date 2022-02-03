@@ -20,6 +20,7 @@
 ###############################百度统计
 ||hm.baidu.com^
 ||tongji.baidu.com^
+||mobads.baidu.com^
 ###############################亚马逊
 ||amazon-adsystem.com^
 ###############################腾讯
@@ -167,3 +168,15 @@
 ||2764125.com^
 ||dc12252.com^
 ||www.lolxiazai.com^
+################################阿里广告
+||video-ad.sm.cn^
+################################新网广告
+||ali-ad.a.yximgs.com^
+||tx-ad.a.yximgs.com^$important
+||js-ad.a.yximgs.com^$important
+################################log
+||sdk-log.partner.sm.cn^$important
+||log.yolinkmob.com^$important
+||applog.uc.cn^$important
+||mobads-logs.baidu.com^$important
+||log.tbs.qq.com^$important
