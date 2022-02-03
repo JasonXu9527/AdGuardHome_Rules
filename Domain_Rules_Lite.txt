@@ -180,3 +180,14 @@
 ||applog.uc.cn^$important
 ||mobads-logs.baidu.com^$important
 ||log.tbs.qq.com^$important
+||tobapplog.ctobsnssdk.com^$important
+||line1-log.biligame.net^$important
+################################穿山甲
+||pangolin.snssdk.com^
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao-b.com^
+||pglstatp-toutiao.com^
+################################京东
+||kepler.jd.com^$important
+||orbit.jd.com^$important
+
